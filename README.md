@@ -8,4 +8,4 @@ Projects:
 
 [Crawler](https://github.com/libialany/friendly-crawler)
 
-[Basic Crawler JSoup](https://gitlab.com/javaprojects595925/web-crawler/-/tree/v0.0.0?ref_type=heads)
+[Basic Crawler JSoup](https://gitlab.com/javaprojects595925/web-crawler/-/tree/v0.0.0?ref_type=heads) video: [(😅)](https://youtu.be/0yn9A2tMKhQ)
