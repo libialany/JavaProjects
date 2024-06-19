@@ -1,5 +1,4 @@
-ger
-tensor# JavaProjects
+# JavaProjects
 
 Projects:
 
