@@ -11,3 +11,5 @@ Content:
 [Creating the base project code](https://gitlab.com/javaprojects595925/fullstackapp/-/tree/v0.0.0?ref_type=heads) | [video](https://youtu.be/Imy9SzdZmTs) 🤩
 
 [Seeders](https://gitlab.com/javaprojects595925/fullstackapp/-/tree/v0.0.1?ref_type=heads) | [video](https://youtu.be/bQcCQzEW1ZY) 🖊️
+
+[Abstract Factory](https://gitlab.com/javaprojects595925/creationaldesignpatterns/-/tree/AbstractFactory)[video](https://youtu.be/C_YxxGzEV-s) ✔️
