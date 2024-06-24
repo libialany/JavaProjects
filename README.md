@@ -16,3 +16,4 @@ Content:
 
 [Builder Pattern](https://gitlab.com/javaprojects595925/creationaldesignpatterns/-/tree/Builder?ref_type=heads) | [video](https://youtu.be/R1GdULHnm0U) 💡
 
+[Prototype](https://gitlab.com/javaprojects595925/creationaldesignpatterns/-/tree/Prototype?ref_type=heads) | [video](https://youtu.be/OkCQxRrgdpQ) 🌱
