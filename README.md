@@ -19,3 +19,5 @@ Content:
 [Prototype](https://gitlab.com/javaprojects595925/creationaldesignpatterns/-/tree/Prototype?ref_type=heads) | [video](https://youtu.be/OkCQxRrgdpQ) 🌱
 
 [S.O.L.I.D](https://gitlab.com/javaprojects595925/creationaldesignpatterns/-/tree/SOLID?ref_type=heads) | [video](https://youtu.be/2w3Y2Xhm7ts) ✔️
+
+[Dockerize Full stack app](https://gitlab.com/javaprojects595925/fullstackapp/-/tree/v0.0.2?ref_type=heads) | [video](https://youtu.be/0qmcFtnX9-4)⏰
